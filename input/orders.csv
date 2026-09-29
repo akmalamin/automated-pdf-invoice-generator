@@ -1,0 +1,7 @@
+invoice_id,date,due_date,customer_name,customer_email,customer_address,item_description,quantity,unit_price
+INV-2025-001,2025-03-30,2025-04-30,Quantum Dynamics Corp,billing@quantum.com,742 Evergreen Terrace Springfield OR,Cloud Infrastructure Setup & VPC Architecture,1,2500.00
+INV-2025-001,2025-03-30,2025-04-30,Quantum Dynamics Corp,billing@quantum.com,742 Evergreen Terrace Springfield OR,Automated Web Scraping Pipeline Engineering,2,750.00
+INV-2025-001,2025-03-30,2025-04-30,Quantum Dynamics Corp,billing@quantum.com,742 Evergreen Terrace Springfield OR,PostgreSQL Database Migration & Index Tuning,1,1200.00
+INV-2025-002,2025-03-31,2025-04-30,Elevate Growth Marketing,finance@elevategrowth.io,450 Lexington Ave New York NY,Monthly Social Media Syndication Engine,1,850.00
+INV-2025-002,2025-03-31,2025-04-30,Elevate Growth Marketing,finance@elevategrowth.io,450 Lexington Ave New York NY,Custom Python Report Generator with Charts,1,450.00
+INV-2025-003,2025-04-01,2025-05-01,Starlight E-Commerce LLC,support@starlightstore.com,120 Market St San Francisco CA,Bulk Order Processing & PDF Billing Automation,1,1600.00
